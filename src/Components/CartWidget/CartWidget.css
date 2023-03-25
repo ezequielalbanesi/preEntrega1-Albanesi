@@ -1,0 +1,9 @@
+.imgCarrito{
+    width: 4rem;
+}
+.contenedorCarrito{
+    width: 33vw;
+    display: flex;
+    justify-content: flex-end;
+    margin: 1rem;
+}
